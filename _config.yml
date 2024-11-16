@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Samapan Thongmee"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Samapan Thongmee"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://samapan.thongmee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Nampu-1.jpg"
+  avatar           : "Nampu-1.png"
   name             : "Samapan Thongmee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Well services supervisor by day, data scientist by passion"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "PTTEP"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "samapan.thongmee@gmail.con" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
